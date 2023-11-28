@@ -11,6 +11,6 @@ This Solution Accelerator is delivered "as is".  Any issues encountered can be r
 - [Please click this link for detailed installation and usage documentation](https://github.com/OneIdentity/IDMRiskDashboard/raw/main/One%20Identity%20Manager%20Risk%20Dashboard%20Solution%20Accelerator.docx)
 
 ### Solution Accelerator Files
-- [Power BI Template](https://github.com/OneIdentity/IDMRiskDashboard/raw/main/IGARisk.pbit)
+- [Power BI Template](https://github.com/OneIdentity/IdentityManager.IGARiskDashboard/raw/main/IGARisk.pbit)
 
 
