@@ -15,6 +15,8 @@ Also, there are what we call Data Quality issues.  These are not necessarily vul
 
 Please refer to the Word document for more information on the dashboard.
 
+This dashboard was built using Power BI Desktop version 2.100.1401.0.
+
 ## Supportability
 This Solution Accelerator is delivered "as is".  Any issues encountered can be reported on Github and contributors will make a best effort to resolve them.
 
