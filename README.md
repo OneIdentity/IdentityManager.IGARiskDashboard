@@ -1,4 +1,4 @@
-# IDM Risk Dashboarad
+# IGA Risk Dashboarad
 __Identity Manager__ Risk Dashboard__ Solution Accelerator
 
 ## Overview
